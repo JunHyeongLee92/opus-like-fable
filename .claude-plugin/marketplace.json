@@ -7,7 +7,7 @@
     {
       "name": "opus-like-fable",
       "source": "./",
-      "description": "Run Opus with a Fable-5-style behavior profile: always-on behavior spec, runtime reminders, stop enforcement for unfinished turns, guards on irreversible actions, and adversarial verification workers."
+      "description": "Run Opus with a Fable-5-style behavior profile: always-on behavior spec, runtime reminders, stop enforcement for unfinished turns, and adversarial verification workers."
     }
   ]
 }

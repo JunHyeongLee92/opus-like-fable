@@ -1,8 +1,8 @@
 {
   "name": "opus-like-fable",
   "displayName": "Opus like Fable",
-  "version": "0.0.1",
-  "description": "Run Opus with a Fable-5-style behavior profile: 6-module behavior spec injected at session start (re-injected after compaction), persistent project memory, condition-triggered format/tone reminders, stop enforcement for unfinished turns, guards on irreversible actions, and adversarial verification workers.",
+  "version": "0.0.2",
+  "description": "Run Opus with a Fable-5-style behavior profile: 6-module behavior spec injected at session start (re-injected after compaction), persistent project memory, condition-triggered format/tone reminders, stop enforcement for unfinished turns, and adversarial verification workers.",
   "author": {
     "name": "J.H.L"
   },
